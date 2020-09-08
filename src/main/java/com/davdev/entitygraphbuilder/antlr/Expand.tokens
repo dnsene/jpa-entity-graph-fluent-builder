@@ -1,0 +1,8 @@
+VARIABLE=1
+LPAREN=2
+RPAREN=3
+VIRG=4
+WS=5
+'('=2
+')'=3
+','=4
